@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Oktay Aytkut
 
-I'm a full-stack developer with extensive experience in developing banking systems. I have a keen interest in web and mobile application development.
+I'm a full-stack developer with experience in developing banking systems. I have a keen interest in web and mobile application development.
 
 ## 🛠️ Expertise
 - **Languages**: Java, .NET, and various JavaScript libraries. Oh, and yes, I can also code in COBOL! 😄 
